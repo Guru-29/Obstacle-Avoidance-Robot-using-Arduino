@@ -1,0 +1,2 @@
+# Obstacle-Avoidance-Robot-using-Arduino
+This project implements an autonomous obstacle avoidance robot using an Arduino, an ultrasonic sensor, and DC motors. The robot continuously measures the distance to obstacles and changes its direction when an obstacle is detected.
